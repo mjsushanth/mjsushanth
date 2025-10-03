@@ -13,7 +13,6 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 - **Multi-View 3D Scene Analysis**: Created a 10k+ LOC pipeline with MV scene analysis, pose-guided filtering, occlusion handling, and RANSAC validation on ETH3D.  
 - **Protein Structure Prediction**: Implemented HMM, CRF, BiLSTM; CRF reached 67% accuracy on CB513 using evolutionary + context features.  
 - **Artist Classification**: Compared SVM-SIFT-BoVW, CAEs, and CNNs; SVM achieved 89% accuracy on 50-class dataset.  
-- **DNA Sequence Matcher**: Implemented 7 algorithms (Suffix Tree, Aho-Corasick, EPMSPP) achieving 187 Mbp/s throughput on genomic data.  
 
 ---
 
@@ -21,11 +20,7 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 
 **Data Engineer – Business Intelligence** | *Innova Solutions* (2019–2023)  
 - Led **enterprise-scale ETL pipelines** with Talend, PL/SQL, Databricks, PostgreSQL.  
-- Architected **25+ Power BI dashboards** (500+ metrics) for FP&A and SG&A.  
-- Optimized loaders → reduced report generation time by **60%**.  
-- Automated compliance pipelines, saving **70+ hrs/month**.  
-- Migrated ETL systems with CI/CD, cutting deployments by **50%**.  
-- Mentored engineers, conducted **35+ interviews**, and earned **Star & Idol Awards**.  
+- Architected **25+ Power BI dashboards** (500+ metrics) for FP&A and SG&A.  [ .. More in resume! ]
 
 ---
 
@@ -40,9 +35,8 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 ## 🏆 Recognition & Leadership  
 
 - **Awards:** Innova Star Award, Innova Idol Award for efficiency and leadership.  
-- **Mentorship:** Guided junior engineers, ran BI + AI knowledge sessions frequently.  
-- **Academic Collaboration:** Contributed to projects in vision, NLP, and MLOps at Northeastern.  
-
+- **Mentorship:** Guided junior engineers, ran BI + AI knowledge sessions frequently.
+  
 ---
 
 ## 📫 Connect with Me  
