@@ -58,10 +58,6 @@ I'm a Data Engineer and AI graduate student passionate about turning data into i
 - Achieved speeds up to 187.79 Mbp/s for billion-base-pair sequences
 - Provided insights into algorithm selection for specific genomic data use cases
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjsushanth&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemjs/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:markapudi.j@northeastern.edu)
