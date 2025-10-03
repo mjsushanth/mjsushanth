@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Joel M  
+# 👋 Hello, I'm Joel Sushanth Markapudi  
 
 AI Researcher & Data Engineer | M.S. in Artificial Intelligence @ Northeastern University, Boston  
 
