@@ -1,64 +1,72 @@
-# 👋 Hello, I'm Joel Sushanth Markapudi  
+# 👋 Hello, I'm Joel M  
 
-I'm a **Data Engineer turned AI Researcher** pursuing my **M.S. in Artificial Intelligence** at Northeastern University (Boston).  
-I bridge **enterprise-scale data engineering** with **cutting-edge AI/ML research**—from **multi-agent debate frameworks** to **text-to-pose diffusion models**. My work spans across **data science, deep learning, computer vision, and MLOps**, with strong foundations in both **theory and production engineering**.  
+AI Researcher & Data Engineer | M.S. in Artificial Intelligence @ Northeastern University, Boston  
+
+I build systems at the intersection of **data engineering, deep learning, and applied research**.  
+From **multi-agent debate LLMs** to **3D reconstruction pipelines** and **diffusion-based generative models**, I combine **theory, engineering, and experimentation** to solve complex problems.
 
 ---
 
-## 🧑‍💻 Research & Academic Projects
+## 📚 Research & Academic Projects
 
-### 🔹 Text-to-Pose Diffusion (NeurIPS-style project)
-- Built a **CLIP-conditioned diffusion model** for generating 3D human poses from text:contentReference[oaicite:9]{index=9}:contentReference[oaicite:10]{index=10}.  
-- Designed **cross-modal U-Net + cross-attention architecture**, with **anatomical loss constraints** for skeletal plausibility.  
-- Innovated **cluster-aware sampling** and **first-action segmentation** on the **HumanML3D dataset** (~23k train / 4k test).  
-- Result: Stable, anatomically correct pose generation with strong semantic alignment.  
+### 🔹 Text-to-Pose Diffusion (Cross-Modal AI)
+- Built a **CLIP-conditioned diffusion model** generating 3D poses from natural language.  
+- Designed **cross-modal U-Net + cross-attention** with **anatomical loss constraints** for skeletal validity.  
+- Created **cluster-aware sampling + first-action segmentation** for the HumanML3D dataset (~23k train).  
 
 ### 🔹 Multi-Agent Debate LLMs
-- Designed **SocrAItic Circle**: a multi-agent debate framework improving LLM reasoning:contentReference[oaicite:11]{index=11}:contentReference[oaicite:12]{index=12}.  
-- Implemented **3-phase debate cycles** (prep → rebuttal → evaluation) and **7 judge types** (factual, logical, rhetorical, audience impact, etc.).  
-- Created **YAML-driven prompt orchestration** and integrated **adversarial critique + evidence self-checking**.  
-- Demonstrated measurable gains in **logical coherence, factual accuracy, and persuasiveness** compared to single-agent baselines.  
+- Developed **SocrAItic Circle**: multi-agent debate framework with **3-phase cycles** and **7 judge roles**.  
+- Implemented **YAML-driven orchestration** and **adversarial critique + evidence self-checking** for robust reasoning.  
+- Achieved stronger **logical coherence, factual accuracy, and persuasiveness** over single-agent baselines.  
 
-### 🔹 Multi-View 3D Scene Analysis & Reconstruction
-- Built a **10,000+ LOC feature correspondence pipeline** for 3D reconstruction:contentReference[oaicite:13]{index=13}:contentReference[oaicite:14]{index=14}.  
-- Developed **scene-adaptive correspondence** with pose-guided filtering, occlusion handling, and quality metrics.  
-- Benchmarked on **ETH3D dataset**: achieved **+9.6% feature density** and improved stability across wide-baseline views.  
-- Applications: surgical navigation, drone-based mapping, AR/VR pipelines.  
-
-### 🔹 Protein Secondary Structure Prediction
-- Implemented **HMM, CRF, SVM, and BiLSTM models** for predicting protein structures:contentReference[oaicite:15]{index=15}:contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}.  
-- Enhanced CRF with **β-sheet specific features**, achieving **67.17% accuracy** (CB513 dataset).  
-- Engineered rich features (PSSM, evolutionary profiles, structural indicators) with **sliding-window context extraction**.  
-
-### 🔹 Artist Classification (Computer Vision)
-- Compared **SVM+SIFT-BoVW**, **Convolutional Autoencoders**, and **CNNs (ResNet, VGG)** for artist identification:contentReference[oaicite:18]{index=18}.  
-- SVM-SIFT achieved **89.2% accuracy on 50-class dataset**, outperforming CNNs under data constraints.  
+### 🔹 Multi-View 3D Scene Analysis
+- Built a **scene-adaptive feature correspondence pipeline** (10k+ LOC) for ETH3D dataset.  
+- Integrated **pose-guided filtering, occlusion handling, RANSAC validation**, and **spatial coverage metrics**.  
+- Improved **feature density and track stability** in wide-baseline multi-view reconstruction.  
 
 ---
 
-## 💼 Professional Experience
-
-**Data Engineer – Business Intelligence** | *Innova Solutions* (2019–2023):contentReference[oaicite:19]{index=19}  
-- Architected and deployed **enterprise-scale ETL pipelines** (Talend, PL/SQL, PostgreSQL).  
-- Led **11+ major projects** delivering **500+ metrics and 25+ BI dashboards** for FP&A/SG&A reporting.  
-- Optimized data loaders, reducing report generation time by **60%**; automated audit processes saving **70+ hours monthly**.  
-- Mentored junior engineers, drove CI/CD adoption for ETL, and received **multiple awards (Star Award, Innova Idol)**.  
+### Other Notable Projects
+- **Protein Secondary Structure Prediction**: Designed HMM, CRF, BiLSTM models; CRF reached 67% accuracy with evolutionary + sliding window features.  
+- **Artist Classification (Vision)**: Compared **SVM-SIFT-BoVW, CAEs, CNNs**; SVM achieved 89.2% accuracy on 50-class dataset.  
+- **DNA Sequence Matcher**: Implemented 7 string-matching algorithms (Suffix Tree, Aho-Corasick, EPMSPP) achieving **187 Mbp/s** on billion-base DNA inputs.  
 
 ---
 
-## 🎓 Education
-- **M.S. in Artificial Intelligence** — Northeastern University, Boston (2024–2025)  
-- **B.S. in Computer Science** — KL University, India | GPA: 9.0/10.0 (2016–2020)  
+## 💼 Professional Experience  
+
+**Data Engineer – Business Intelligence** | *Innova Solutions* (2019–2023)  
+
+- Led development of **enterprise-scale ETL pipelines** (Talend, PL/SQL, Databricks, PostgreSQL).  
+- Architected **25+ Power BI dashboards** tracking 500+ metrics for FP&A and SG&A reporting.  
+- Designed and optimized **data loaders** → reduced report generation time by **60%**.  
+- Automated **audit & compliance pipelines**, saving **70+ hours per month** of manual effort.  
+- Drove **ETL system migrations with CI/CD pipelines**, cutting deployment time by **50%**.  
+- Mentored junior engineers, conducted **35+ interviews**, and won **multiple company awards** (Star Award, Innova Idol).  
 
 ---
 
 ## 🛠️ Technical Skills
-
 **Languages:** Python, SQL (PL/SQL, T-SQL, PostgreSQL), Java, C++, HTML/CSS  
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV  
-**Specialized Domains:** Diffusion Models, Transformers, Probabilistic Graphical Models (HMM/CRF), CV (SfM, MVS, 3D Reconstruction), NLP (RAG, Multi-Agent LLMs)  
-**Data & BI:** Talend, Power BI, Data Modeling, ETL, Databricks  
-**Tools:** Git, Docker, Conda/Mamba, MLflow, SQL Server, Cloud (AWS basics)  
+**ML/AI:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV  
+**Specialties:** Diffusion Models, Transformers, Multi-Agent LLMs, 3D Reconstruction, Probabilistic Graphical Models (HMM/CRF)  
+**Data & BI:** Talend, Power BI, Data Modeling, Databricks  
+**Tools:** Git, Docker, Conda/Mamba, MLflow, AWS (basic)  
+
+---
+
+## 🏆 Recognition & Leadership
+- **Awards:** Innova Star Award, Innova Idol Award for efficiency and leadership.  
+- **Mentorship:** Guided 3–5 junior engineers; led knowledge sessions on **BI + AI workflows**.  
+- **Academic Leadership:** Collaborated across research teams on **vision, NLP, and MLOps projects** at Northeastern.  
+
+---
+
+## 🔭 Research Interests
+- **Generative Models:** diffusion, text-to-motion, multi-modal representation learning.  
+- **LLM Systems:** multi-agent debate, reasoning reliability, retrieval-augmented generation.  
+- **Vision & 3D:** feature correspondences, reconstruction pipelines, embodied AI.  
+- **MLOps:** reproducible pipelines, model monitoring, and scalable deployments.  
 
 ---
 
