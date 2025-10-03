@@ -12,30 +12,7 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 - **Multi-Agent Debate LLMs**: Designed SocrAItic Circle with multi-phase debate cycles, YAML-driven orchestration, and judge modules.  
 - **Multi-View 3D Scene Analysis**: Created a 10k+ LOC pipeline with MV scene analysis, pose-guided filtering, occlusion handling, and RANSAC validation on ETH3D.  
 - **Protein Structure Prediction**: Implemented HMM, CRF, BiLSTM; CRF reached 67% accuracy on CB513 using evolutionary + context features.  
-- **Artist Classification**: Compared SVM-SIFT-BoVW, CAEs, and CNNs; SVM achieved 89% accuracy on 50-class dataset.  
-
----
-
-## 💼 Professional Experience  
-
-**Data Engineer – Business Intelligence** | *Innova Solutions* (2019–2023)  
-- Led **enterprise-scale ETL pipelines** with Talend, PL/SQL, Databricks, PostgreSQL.  
-- Architected **25+ Power BI dashboards** (500+ metrics) for FP&A and SG&A.  [ .. More in resume! ]
-
----
-
-## 🛠️ Technical Skills  
-
-**Languages:** Python, SQL (PL/SQL, T-SQL, PostgreSQL), Java, C++  
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV  
-**Data/Tools:** Talend, Power BI, Databricks, Git, Docker, MLflow  
-
----
-
-## 🏆 Recognition & Leadership  
-
-- **Awards:** Innova Star Award, Innova Idol Award for efficiency and leadership.  
-- **Mentorship:** Guided junior engineers, ran BI + AI knowledge sessions frequently.
+- **Artist Classification**: Compared SVM-SIFT-BoVW, CAEs, and CNNs; SVM achieved 89% accuracy on 50-class dataset.
   
 ---
 
