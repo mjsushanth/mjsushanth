@@ -1,63 +1,68 @@
-# Hello, I'm Joel Sushanth Markapudi 👋
+# 👋 Hello, I'm Joel Sushanth Markapudi  
 
-I'm a Data Engineer and AI graduate student passionate about turning data into insights and building intelligent systems.
+I'm a **Data Engineer turned AI Researcher** pursuing my **M.S. in Artificial Intelligence** at Northeastern University (Boston).  
+I bridge **enterprise-scale data engineering** with **cutting-edge AI/ML research**—from **multi-agent debate frameworks** to **text-to-pose diffusion models**. My work spans across **data science, deep learning, computer vision, and MLOps**, with strong foundations in both **theory and production engineering**.  
 
-## 🎓 Education
-- **M.S. in Artificial Intelligence** - Northeastern University, Boston (2024 - Present)
-- **B.S. in Computer Science** - KL University, India (2016 - 2020) | GPA: 9.0/10.0
+---
+
+## 🧑‍💻 Research & Academic Projects
+
+### 🔹 Text-to-Pose Diffusion (NeurIPS-style project)
+- Built a **CLIP-conditioned diffusion model** for generating 3D human poses from text:contentReference[oaicite:9]{index=9}:contentReference[oaicite:10]{index=10}.  
+- Designed **cross-modal U-Net + cross-attention architecture**, with **anatomical loss constraints** for skeletal plausibility.  
+- Innovated **cluster-aware sampling** and **first-action segmentation** on the **HumanML3D dataset** (~23k train / 4k test).  
+- Result: Stable, anatomically correct pose generation with strong semantic alignment.  
+
+### 🔹 Multi-Agent Debate LLMs
+- Designed **SocrAItic Circle**: a multi-agent debate framework improving LLM reasoning:contentReference[oaicite:11]{index=11}:contentReference[oaicite:12]{index=12}.  
+- Implemented **3-phase debate cycles** (prep → rebuttal → evaluation) and **7 judge types** (factual, logical, rhetorical, audience impact, etc.).  
+- Created **YAML-driven prompt orchestration** and integrated **adversarial critique + evidence self-checking**.  
+- Demonstrated measurable gains in **logical coherence, factual accuracy, and persuasiveness** compared to single-agent baselines.  
+
+### 🔹 Multi-View 3D Scene Analysis & Reconstruction
+- Built a **10,000+ LOC feature correspondence pipeline** for 3D reconstruction:contentReference[oaicite:13]{index=13}:contentReference[oaicite:14]{index=14}.  
+- Developed **scene-adaptive correspondence** with pose-guided filtering, occlusion handling, and quality metrics.  
+- Benchmarked on **ETH3D dataset**: achieved **+9.6% feature density** and improved stability across wide-baseline views.  
+- Applications: surgical navigation, drone-based mapping, AR/VR pipelines.  
+
+### 🔹 Protein Secondary Structure Prediction
+- Implemented **HMM, CRF, SVM, and BiLSTM models** for predicting protein structures:contentReference[oaicite:15]{index=15}:contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}.  
+- Enhanced CRF with **β-sheet specific features**, achieving **67.17% accuracy** (CB513 dataset).  
+- Engineered rich features (PSSM, evolutionary profiles, structural indicators) with **sliding-window context extraction**.  
+
+### 🔹 Artist Classification (Computer Vision)
+- Compared **SVM+SIFT-BoVW**, **Convolutional Autoencoders**, and **CNNs (ResNet, VGG)** for artist identification:contentReference[oaicite:18]{index=18}.  
+- SVM-SIFT achieved **89.2% accuracy on 50-class dataset**, outperforming CNNs under data constraints.  
+
+---
 
 ## 💼 Professional Experience
-- **Data Engineer - Business Intelligence** @ Innova Solutions (2019 - 2023)
-  - Led development of scalable data solutions for FP&A teams
-  - Architected end-to-end data models for operational and financial reporting
-  - Automated ETL processes with Talend, improving data integration efficiency
-  - Managed 11+ major projects delivering crucial operational data transparency
-  - Reduced report generation time by 60% through code and data loader optimization
 
-## 💻 Technical Skills
+**Data Engineer – Business Intelligence** | *Innova Solutions* (2019–2023):contentReference[oaicite:19]{index=19}  
+- Architected and deployed **enterprise-scale ETL pipelines** (Talend, PL/SQL, PostgreSQL).  
+- Led **11+ major projects** delivering **500+ metrics and 25+ BI dashboards** for FP&A/SG&A reporting.  
+- Optimized data loaders, reducing report generation time by **60%**; automated audit processes saving **70+ hours monthly**.  
+- Mentored junior engineers, drove CI/CD adoption for ETL, and received **multiple awards (Star Award, Innova Idol)**.  
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+---
 
-**Data & BI:**  
-![ETL](https://img.shields.io/badge/-ETL_Architecture-FF6F00?style=flat-square)
-![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![DataModeling](https://img.shields.io/badge/-Data_Modeling-4D4D4D?style=flat-square)
+## 🎓 Education
+- **M.S. in Artificial Intelligence** — Northeastern University, Boston (2024–2025)  
+- **B.S. in Computer Science** — KL University, India | GPA: 9.0/10.0 (2016–2020)  
 
-**ML & AI:**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+---
 
-**Tools & Technologies:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Talend](https://img.shields.io/badge/-Talend-1675BC?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+## 🛠️ Technical Skills
 
-## 🚀 Projects
+**Languages:** Python, SQL (PL/SQL, T-SQL, PostgreSQL), Java, C++, HTML/CSS  
+**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV  
+**Specialized Domains:** Diffusion Models, Transformers, Probabilistic Graphical Models (HMM/CRF), CV (SfM, MVS, 3D Reconstruction), NLP (RAG, Multi-Agent LLMs)  
+**Data & BI:** Talend, Power BI, Data Modeling, ETL, Databricks  
+**Tools:** Git, Docker, Conda/Mamba, MLflow, SQL Server, Cloud (AWS basics)  
 
-### Artist Classification using Machine Learning and Deep Learning
-- Designed CAE architectures for unsupervised feature extraction
-- Implemented SVM with SIFT and Bag of Visual Words, achieving 89.2% accuracy on a 50-class dataset
-- Conducted comparative analysis of SVM-SIFT, CAE, and custom CNNs
-
-### Stock Trading and Management Application
-- Built a scalable Java application with hybrid MVC and Client-Server architecture
-- Integrated real-time stock data via API with robust storage solutions
-- Implemented advanced investment strategies and portfolio analytics
-
-### DNA Sequences Matching Algorithm Analysis
-- Implemented and analyzed 7 string matching algorithms for genomic data
-- Achieved speeds up to 187.79 Mbp/s for billion-base-pair sequences
-- Provided insights into algorithm selection for specific genomic data use cases
+---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemjs/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:markapudi.j@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemjs/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:markapudi.j@northeastern.edu)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mjsushanth)  
