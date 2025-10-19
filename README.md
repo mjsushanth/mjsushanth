@@ -9,10 +9,10 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 ## 📚 Research & Academic Projects
 
 - **Text-to-Pose Diffusion**: Built a CLIP-conditioned diffusion model with cross-attention + anatomical loss for 3D pose generation.  
-- **Multi-Agent Debate LLMs**: Designed SocrAItic Circle with multi-phase debate cycles, YAML-driven orchestration, and judge modules.  
+- **SocrAItic Circle**: Multi-Agent Debate LLMs workflow, designed with multi-phase debate cycles, iterative refinement, YAML-driven orchestration, and judge modules.  
 - **Multi-View 3D Scene Analysis**: Created a 10k+ LOC pipeline with MV scene analysis, pose-guided filtering, occlusion handling, and RANSAC validation on ETH3D.  
 - **Protein Structure Prediction**: Implemented HMM, CRF, BiLSTM; CRF reached 67% accuracy on CB513 using evolutionary + context features.  
-- **Artist Classification**: Compared SVM-SIFT-BoVW, CAEs, and CNNs; SVM achieved 89% accuracy on 50-class dataset.
+- **Artist Classification**: Compared SVM-SIFT-BoVW, CAEs, VAEs, and CNNs; SVM achieved 89% accuracy on 50-class dataset.
   
 ---
 
