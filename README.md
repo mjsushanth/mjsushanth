@@ -8,6 +8,7 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 
 ## 📚 Research & Academic Projects
 
+- **FinRAG/FinSights: Production-Grade Financial Intelligence System** — Hybrid dual-path architecture combining structured queries (DuckDB/SQL/Polars dimension tables) with semantic retrieval (AWS Bedrock embeddings). Processes 71.8M→1M sentences via stratified sampling with temporal weighting across regulatory eras (2006-2020). Achieves $0.017/query cost through Parquet-based vector storage, eliminating managed DB overhead. Advanced RAG Engineering — Sentence-level embeddings, **multi-query expansion with window-hopping retrieval**, citation provenance via document headers for exact traceability. End-to-end validation framework with Polars/Parquet logging, comprehensive error handling with exponential backoff, serverless-ready architecture (S3 Vectors + Lambda + Bedrock Claude).
 - **Text-to-Pose Diffusion**: Built a CLIP-conditioned diffusion model with cross-attention + anatomical loss for 3D pose generation.  
 - **SocrAItic Circle**: Multi-Agent Debate LLMs workflow, designed with multi-phase debate cycles, iterative refinement, YAML-driven orchestration, and judge modules.  
 - **Multi-View 3D Scene Analysis**: Created a 10k+ LOC pipeline with MV scene analysis, pose-guided filtering, occlusion handling, and RANSAC validation on ETH3D.  
