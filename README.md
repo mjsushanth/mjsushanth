@@ -9,8 +9,8 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 ## Research & Academic Projects
 
 - **FinRAG/FinSights: Production-Grade Financial Intelligence System** — Hybrid dual-path architecture combining structured queries (DuckDB/SQL dimension tables) with semantic retrieval. Processes 72M→1M sentences via stratified sampling with temporal weighting across regulatory eras. [Check this out!](https://github.com/Finsights-MLOps/FinSights/blob/main/README.md)
-  - **Data Engineering Pipeline**: DuckDB stratified sampling (30+ SQL scripts) with weighted multi-objective scoring, fuzzy-matched S&P 500 integration, conditional temporal stratification.
-  - **Advanced RAG Engineering**: Sentence-level embeddings, **multi-query expansion with window-hopping retrieval**, citation provenance via document headers for exact traceability. Polars/Parquet logging, serverless-ready architecture (S3 Vectors + Lambda + Bedrock Claude).
+  - **Data Engineering Pipeline**: DuckDB stratified sampling (30+ SQL scripts) with weighted multi-objective scoring, fuzzy-matched integrations, conditional temporal stratification.
+  - **Advanced RAG Engineering**: Sentence-level embeddings, **multi-query expansion with window-hopping retrieval**, citation provenance via document headers for exact traceability. Polars/Parquet logging, serverless-ready architecture.
   - Achieves $0.017/query cost, no managed DB overhead ($0.05/month vs $70-700/month). 
 - **Text-to-Pose Diffusion**: Built a CLIP-conditioned diffusion model with cross-attention + anatomical loss for 3D pose generation. [See Report here.](https://github.com/mjsushanth/CLIP-Conditioned-Diffusion-T2Pose-Generation/blob/main/RESEARCH_README.md)
   - Has deeply researched concepts on Motion/3D data: (pose representation, N-joint hierarchical mapping, kinematic chains, pelvis-spine-extremity validation) and the architecture of **Hybrid CNN-Transformer Diffusion**, CLIP Semantic Encoding & Projection, Dual-Pass CFG and Anatomical Constraint Enforcement.
