@@ -12,10 +12,11 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
   - **Data Engineering Pipeline**: DuckDB stratified sampling (30+ SQL scripts) with weighted multi-objective scoring, fuzzy-matched S&P 500 integration, conditional temporal stratification.
   - **Advanced RAG Engineering**: Sentence-level embeddings, **multi-query expansion with window-hopping retrieval**, citation provenance via document headers for exact traceability. Polars/Parquet logging, serverless-ready architecture (S3 Vectors + Lambda + Bedrock Claude).
   - Achieves $0.017/query cost, no managed DB overhead ($0.05/month vs $70-700/month). 
-- **Text-to-Pose Diffusion**: Built a CLIP-conditioned diffusion model with cross-attention + anatomical loss for 3D pose generation.  
+- **Text-to-Pose Diffusion**: Built a CLIP-conditioned diffusion model with cross-attention + anatomical loss for 3D pose generation. [See Report here.](https://github.com/mjsushanth/CLIP-Conditioned-Diffusion-T2Pose-Generation/blob/main/RESEARCH_README.md)
+  - Has deeply researched concepts on Motion/3D data: (pose representation, canonical orientation solving, 22-joint hierarchical mapping, kinematic chain integrity, centroid-distance outlier detection, pelvis-spine-extremity validation) to the architecture of **Hybrid CNN-Transformer Diffusion**, CLIP Semantic Encoding & Projection, Dual-Pass CFG and Anatomical Constraint Enforcement.
 - **SocrAItic Circle**: Multi-Agent Debate LLMs workflow, designed with multi-phase debate cycles, iterative refinement, YAML-driven orchestration, and judge modules.  
 - **Multi-View 3D Scene Analysis**: Created a 10k+ LOC pipeline with MV scene analysis, pose-guided filtering, occlusion handling, and RANSAC validation on ETH3D.  
-- **Protein Structure Prediction**: Implemented HMM, CRF, BiLSTM; CRF reached 67% accuracy on CB513 using evolutionary + context features.  
+- **Protein Structure Prediction**: Implemented HMM, CRF, BiLSTM; CRF reached 67% accuracy on CB513 using evolutionary + context features. [See Report here.](https://github.com/mjsushanth/ML_Protein_Structure_Prediction/blob/main/Report%20-%20Protein%20Struct%20Prediction%20HMM%2C%20CRF%2C%20LSTM%2C%20ML.pdf) 
 - **Artist Classification**: Compared SVM-SIFT-BoVW, CAEs, VAEs, and CNNs; SVM achieved 89% accuracy on 50-class dataset.
 
 ## Other works:
