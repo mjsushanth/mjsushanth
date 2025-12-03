@@ -20,9 +20,9 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 - **Artist Classification**: Compared SVM-SIFT-BoVW, CAEs, VAEs, and CNNs; SVM achieved 89% accuracy on 50-class dataset.
 
 ## Other works:
--  Multi-vector ViT+CLIP with LoRA and ColBERT-style MaxSim retrieval [Demo Notebook.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/CICD_ML_Infr_Lambda)
--  An example workflow of ML-Serving using Gitub CI/CD and AWS Lambda, SAM Infrastructure. [Src Code.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/Late_Interaction_MVR_PEFT_LoRA) , Read study notes here. [Study notes.](https://github.com/mjsushanth/Study_Notes_Obsd/blob/main/ML%20Ops%20Notes/Study%20-%20AWS%2001%20CICD%2C%20Lambda%20etc..md)
--  Usage of Optuna and MLFlow using a synthetic time-series generator [Src Code.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/MLFlow_Synth_TimeSeries_Lab)
+- Multi-vector ViT+CLIP with LoRA and ColBERT-style MaxSim retrieval [Demo Notebook.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/Late_Interaction_MVR_PEFT_LoRA)
+- An example workflow of ML-Serving using Gitub CI/CD and AWS Lambda, SAM Infrastructure. [Src Code.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/CICD_ML_Infr_Lambda) , Read study notes here. [Study notes.](https://github.com/mjsushanth/Study_Notes_Obsd/blob/main/ML%20Ops%20Notes/Study%20-%20AWS%2001%20CICD%2C%20Lambda%20etc..md)
+- Usage of Optuna and MLFlow using a synthetic time-series generator [Src Code.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/MLFlow_Synth_TimeSeries_Lab)
 
 ---
 
