@@ -2,7 +2,7 @@
 
 AI enthusiast & Data Engineer | M.S. in Artificial Intelligence @ Northeastern University  
 
-I like **AI/ML research**, **enterprise-scale data engineering**, building systems in **deep learning, NLP, and computer vision**.  
+I like **AI/ML research**, **enterprise-scale data engineering**, building systems in **deep learning, NLP, and computer vision**.  Please visit: https://mjsushanth.github.io/
 
 ---
 
