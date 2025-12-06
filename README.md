@@ -1,10 +1,17 @@
-# 👋 Hello, I'm Joel M  
+# Hello, I'm Joel M  
 
 AI enthusiast & Data Engineer | M.S. in Artificial Intelligence @ Northeastern University  
 
 I like **AI/ML research**, **enterprise-scale data engineering**, building systems in **deep learning, NLP, and computer vision**.  Please visit: https://mjsushanth.github.io/
 
 ---
+
+## Portfolio:
+- Do visit my portfolio [here](https://mjsushanth.github.io/)
+
+## Study Notes:
+- My study notes are categorized and placed in [here!](https://github.com/mjsushanth/Study_Notes_Obsd)
+- Credits to Obsidian, such a perfect app for taking notes. Here, you can expect to find deep-math diving, clear mental models, intuition, project-research on whatever my work has produced.  
 
 ## Research & Academic Projects
 
