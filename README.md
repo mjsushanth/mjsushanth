@@ -10,7 +10,7 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 - Do visit my portfolio [here](https://mjsushanth.github.io/)
 
 ## Study Notes:
-- My study notes are categorized and placed in [here!](https://github.com/mjsushanth/Study_Notes_Obsd)
+- My random study notes around random ML/AI/DL literature, categorized and placed in [here!](https://github.com/mjsushanth/Study_Notes_Obsd)
 - Credits to Obsidian, such a perfect app for taking notes. Here, you can expect to find deep-math diving, clear mental models, intuition, project-research on whatever my work has produced.  
 
 ## Research & Academic Projects
