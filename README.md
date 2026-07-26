@@ -11,7 +11,9 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 
 ## Study Notes:
 - My random study notes around random ML/AI/DL literature, categorized and placed in [here!](https://github.com/mjsushanth/Study_Notes_Obsd)
-- Credits to Obsidian, such a perfect app for taking notes. Here, you can expect to find deep-math diving, clear mental models, intuition, project-research on whatever my work has produced.  
+- Credits to Obsidian, such a perfect app for taking notes. Here, you can expect to find deep-math diving, clear mental models, intuition, project-research on whatever my work has produced.
+- **NEW**. A couple of teacher notebooks, practice drills. Re-implementing transformer enc-dec problem sets, ViT, etc. on Apple MLX, comparing MLX - MPS, classical ML practice. [here!](https://github.com/mjsushanth/ml-dl-cv-learning-exp)
+
 
 ## Research & Academic Projects
 
