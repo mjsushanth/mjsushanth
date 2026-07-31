@@ -7,6 +7,7 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 ---
 
 ## Portfolio:
+- Personal: [here](https://mjsushanth.github.io/xianyunshi/)
 - Do visit my portfolio [here](https://mjsushanth.github.io/)
 
 ## Study Notes:
