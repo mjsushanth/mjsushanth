@@ -6,13 +6,10 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 
 ---
 
-## Sites:
+## Sites, My Notes:
 - Do visit my portfolio [here](https://mjsushanth.github.io/)
 - Personal: [here](https://mjsushanth.github.io/xianyunshi/)
-
-
-## Study Notes:
-- My random study notes around random ML/AI/DL literature, categorized and placed in [here!](https://github.com/mjsushanth/Study_Notes_Obsd)
+- Study notes around random ML/AI/DL literature, [here!](https://github.com/mjsushanth/Study_Notes_Obsd)
 - Re-implementing transformer enc-dec problem sets, ViT, etc. on Apple MLX, comparing MLX - MPS, classical ML practice. [here!](https://github.com/mjsushanth/ml-dl-cv-learning-exp)
 
 
