@@ -10,7 +10,7 @@ I like **AI/ML research**, **enterprise-scale data engineering**, building syste
 ## Recent Work:
 - Re-implementing transformer enc-dec problem sets, ViT, etc. on Apple MLX, comparing MLX - MPS. Translating Transformer theory
 into correct code, tensor shapes, masks, residual paths, data structures, and training behavior from a blank page. [MLX Practice - Transformers](https://github.com/mjsushanth/ml-dl-cv-learning-exp)
-- A clean rebuild of Multi-agent debate pipelines using MLX workbench, Local Models, **Langgraph, MCP servers**. [Debate lab](https://github.com/mjsushanth/mlx-debate-lab)
+- Local LLM debate pipelines using MLX workbench, Local Models, **Langgraph, MCP servers**. [Debate lab](https://github.com/mjsushanth/mlx-debate-lab)
 - Multi-vector ViT+CLIP with LoRA and ColBERT-style MaxSim retrieval [Demo Notebook.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/Late_Interaction_MVR_PEFT_LoRA)
 - An example workflow of ML-Serving using Gitub CI/CD and AWS Lambda, SAM Infrastructure. [Src Code.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/CICD_ML_Infr_Lambda) , Notes here. [Notes.](https://github.com/mjsushanth/Study_Notes_Obsd/blob/main/ML%20Ops%20Notes/Study%20-%20AWS%2001%20CICD%2C%20Lambda%20etc..md)
 - Usage of Optuna and MLFlow using a synthetic time-series generator [Code.](https://github.com/mjsushanth/mlops-labs-portfolio/tree/main/MLFlow_Synth_TimeSeries_Lab)
